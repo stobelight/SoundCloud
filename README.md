@@ -11,4 +11,4 @@ sc playlist description char limit is 4000 and some tracks may dissapear over ti
 
 
 
-**artist/title cleaned thx to touchdesigner + python**
+*artist/title cleaned thx to touchdesigner + python*
